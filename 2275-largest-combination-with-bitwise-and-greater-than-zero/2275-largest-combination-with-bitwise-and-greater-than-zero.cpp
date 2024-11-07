@@ -19,4 +19,3 @@ public:
         return ans; // Return the maximum found
     }
 };
-}
