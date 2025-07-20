@@ -9,7 +9,7 @@ public:
         for(int right=0;right<n;right++){
             while(anmol.find(s[right])!=anmol.end()){
                 anmol.erase(s[left]);
-                left++;
+                left++;ZXCZZ
             }
             
                 anmol.insert(s[right]);
